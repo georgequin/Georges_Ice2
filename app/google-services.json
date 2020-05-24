@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "701348865905",
+    "firebase_url": "https://steel-beanbag-198022.firebaseio.com",
+    "project_id": "steel-beanbag-198022",
+    "storage_bucket": "steel-beanbag-198022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701348865905:android:411673a8892e5b53c6f8d0",
+        "android_client_info": {
+          "package_name": "com.example.georgesice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701348865905-cv56iqd5gnvj6844ru55fbbkuoopd5kq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.georgesice",
+            "certificate_hash": "08e064c9060ecd26ef6a6243f206f1299cdd843d"
+          }
+        },
+        {
+          "client_id": "701348865905-56vg8af9apq1vescik3drkqhef1rk1js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkdv3KB-JRf2RnyDxoqEr2wTLojbFqbs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701348865905-56vg8af9apq1vescik3drkqhef1rk1js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
